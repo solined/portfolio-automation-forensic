@@ -5,7 +5,7 @@ Portfolio regroupant mes projets récents en **automation**, **DevOps** et **for
 ## Objectifs
 - Montrer mes compétences en **développement backend robuste, automation workflows** et **analyse forensic de données numériques**.
 - Disponibilité : 2–3 jours/semaine, remote prioritaire (Ariège/Occitanie), hybride Toulouse possible.
-- Recherche : missions freelance ou portage (**Digital Forensic Analyst** junior, DevOps automation, SOC N1, n8n).
+- Recherche : missions freelance ou portage (**Digital Forensic Analyst**, DevOps automation, SOC N1, n8n).
 
 ## Projets principaux
 
