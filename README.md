@@ -42,7 +42,7 @@ Portfolio regroupant mes projets récents en **forensic numérique**, **OSINT**,
   - Analyse d'images disques tests (Autopsy, Sleuth Kit), timeline events, extraction d'artefacts.  
   - Lien : privé sur demande
     <!--- (sample Markdown + exports) --->
-- **🐍 Forensic Python Parser *(Python 3 • pandas • matplotlib • tqdm )***  
+- **🐍 Forensic Python Parser (Python 3 • pandas • matplotlib • tqdm )**  
 Projet de parsing et visualisation de données forensic issues d’Autopsy.  
 **Objectif :** parser les exports Autopsy (CSV / Timeline), générer une timeline chronologique et produire des graphiques.  
 <!--- Lecture des exports CSV d’Autopsy, Génération de timeline Markdown, Graphiques (événements par date) via Matplotlib, Filtrage par type d’événement ou date --->  
@@ -50,9 +50,17 @@ Projet de parsing et visualisation de données forensic issues d’Autopsy.
 ### 🌐 OSINT & Data Analysis : 
 - **Multi‑Source OSINT Collection & Enrichment** :
   - Collecte automatisée, extraction, enrichissement, corrélation
-  <!--- - multi‑source collection, automated extraction, correlation, enrichment, structured interpretation  --->
+  <!--- - multi‑source collection, automated extraction, correlation, enrichment, structured interpretation
+   automated collection, analysis, enrichment and visualization.--->
   - Structuration et interprétation des données  
   - Lien : privé sur demande
-- **OSINT Migration Birds** :  automated collection, analysis, enrichment and visualization.
+- **OSINT Migration Birds** :  
+  Pipeline **OSINT + data science + IA + analyse scientifique** sur les migrations d’oiseaux / faune.  
+  **Sources :** GBIF (observations), Copernicus (habitat / végétation)  
+  **Pipeline :**
+  - **Collecte** : Python / API  
+  - **Analyse / IA** : tendances de migration, anomalies, prédictions saisonnières  
+  - **Visualisation** : carte interactive (Folium), timeline graphique (Matplotlib / Seaborn)  
+  - **Rapport** : PDF / Markdown automatique avec conclusions et recommandations  
 
 👉 Voir ma bio complète : [GitHub Profile](https://github.com/solined)
