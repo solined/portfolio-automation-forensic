@@ -17,8 +17,8 @@ Portfolio regroupant mes projets récents en **forensic numérique**, **OSINT**,
   - **Liens** :
     - [**V1** – Squelette PHP + OpenAPI + tests simples + CI](https://github.com/solined/API-portfolio-V1)
     - [**V2** – API Symfony minimaliste exécutable (via Docker minimal)](https://github.com/solined/API-portfolio-V2)
-    - [**V2.5** – Migration complète vers YAML (routes, services, config)](https://github.com/solined/API-portfolio-V2.5)
-    - [**V3** – API REST complète (CRUD + services + validation)](https://github.com/solined/API-portfolio-V3)
+    - [**V2.5** – Migration complète vers YAML (routes, services, configuration)](https://github.com/solined/API-portfolio-V2.5)
+    - [**V3** – API REST complète (CRUD + services + validation, exceptions)](https://github.com/solined/API-portfolio-V3)
     - [**V4** –Dockerisation complète + Persistance JSON + Outils dev + Automation DevOp](https://github.com/solined/API-portfolio-V4)  
 
 ### ⚙️ Automation & DevOps 
